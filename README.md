@@ -1,0 +1,3 @@
+# Sports-Analytics-Atlanta-Braves-Predicting-Strikes
+
+We want to create a model that predicts the probability of a pitch in the MLB being called a strike. We want to use a variety of predictor variables, ranging from on-field statistics for both the pitcher (ERA, wins/losses, type of pitch thrown, pitch count, etc.) and the catcher (framing metrics, fielding percentage, runners caught stealing, etc. to quantify skill of the catcher), as well as “environmental” variables that will give insight into the particular setting for the pitch thrown (weather, opponent, location of game, time of day, home plate umpire, score, etc.).
